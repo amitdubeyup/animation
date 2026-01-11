@@ -1,4 +1,4 @@
-# animation
+# css-animation-demos
 
 URL :  https://myanimationweb.000webhostapp.com/
 
@@ -10,8 +10,8 @@ URL :  https://myanimationweb.000webhostapp.com/
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/animation.git
-cd animation
+git clone https://github.com/amitdubeyup/css-animation-demos.git
+cd css-animation-demos
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-animation/
+css-animation-demos/
 ├── .env.example
 ├── README.md
 ```
