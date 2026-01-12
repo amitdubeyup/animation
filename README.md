@@ -1,7 +1,5 @@
 # Css Animation Demos
 
-
-
 ## 📝 About The Project
 Reference implementation and boilerplate code for HTML5/CSS3 projects, demonstrating best practices and project structure.
 
@@ -11,9 +9,6 @@ Reference implementation and boilerplate code for HTML5/CSS3 projects, demonstra
 
 ## 🛠️ Tech Stack
 *   **HTML5/CSS3**
-
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📦 Installation
 
@@ -29,6 +24,9 @@ Reference implementation and boilerplate code for HTML5/CSS3 projects, demonstra
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
